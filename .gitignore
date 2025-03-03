@@ -1,0 +1,45 @@
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.DS_Store
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+logs/*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Build files
+dist/
+out/
+build/
+.next/
+.nuxt/
+.serverless/
+
+# Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Misc
+coverage/
+*.pem
+*.key
+*.crt
