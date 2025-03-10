@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a backend project",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "piyush rai",
+  "license": "ISC"
+}
